@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "Cliente",
+	"password": "cliente",
+	"port": 3306,
+	"database": "CatenaCinema"
+}
+

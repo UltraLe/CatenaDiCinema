@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------
+Il file db.sql contiene tutto il necessario per creare e popolare
+il database, con le informazioni necessarie per eseguire il test delle funzionalità
+implementate. (ovvero un UNICO cinema, quello con ID pari ad 1, è associato
+ai biglietti, proiezioni, posti, dipendenti...)
+------------------------------------------------------------------------------------
+Tuttavia per simulare condizioni di sistema pseudo reale
+(ovvero OGNI cinema (10 in tutto) è associato in modo opportuno ai dipendenti, film,
+biglietti, proiezioni, posti...) sostituire
+le ultime 7 righe del file db.sql con il contenuto del file
+'sistema_reale.sql' così che nella popolazione del db. In tal caso
+l'operazione di popolamento potrebbe richiedere diversi minuti.
+------------------------------------------------------------------------------------
